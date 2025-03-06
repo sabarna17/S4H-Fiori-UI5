@@ -12,16 +12,17 @@ https://learning.sap.com/learning-journeys/get-started-with-in-app-extensibility
 CDB_ALL_CDS_VIEWS - All CDS View
 
 S4H - /SSB/APPLICATION_COMPONENT
+
 Gateway - /SSB/APPCOMP 
+
 TRNSPACET
 
 ## 5. Expose CDS as OData
-_SRV
-https://community.sap.com/t5/application-development-blog-posts/expose-cds-views-as-odata-service/ba-p/13190813
-_CDS
-https://www.youtube.com/watch?v=rkayOPnUzYU
-SADL
-https://community.sap.com/t5/technology-blogs-by-members/creating-odata-services-with-cds-using-sadl-and-annotation/ba-p/13558651
+_SRV: https://community.sap.com/t5/application-development-blog-posts/expose-cds-views-as-odata-service/ba-p/13190813
+
+_CDS: https://www.youtube.com/watch?v=rkayOPnUzYU
+
+SADL: https://community.sap.com/t5/technology-blogs-by-members/creating-odata-services-with-cds-using-sadl-and-annotation/ba-p/13558651
 
 ## 6. All about Fiori Architecture
 https://help.sap.com/docs/SAP_FIORI_OVERVIEW/f42cbf488a3c4f18a570b20c57b77cfa/f44ff10f7b264a26ba0e23fe4c846e69.html
